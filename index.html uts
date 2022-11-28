@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>+ Landing Page Klinik Bersalin</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <nav class="navbar">
+        <h1>SELAMAT DATANG </h1>
+        <div class="nav-menu">
+            <p>Home</p>
+            <p>Articles</p>
+            <p>@ffajrin_hrp</p>
+           
+        </div>
+    </nav>
+    <section class="hero-container">
+        <div>
+            <div>
+                <h1>KLINIK BERSALIN
+                </h1>
+                <p>Dijamin Bisa Membantu</p>
+            </div>
+        </div>
+        <img src="WhatsApp Image 2022-11-28 at 14.59.58.jpeg" alt="hero">
+        
+        
+    </section>
+    <section class="description-container">
+        <div>
+            <div>
+                <h2>Klinik Bersalin +</h2>
+                <p>Klinik Bersalin Ini berbeda dengan misi klinik lain yaitu  merupakan tempat pelayanan kesehatan bagi ibu mengandung yang didirikan pada tahun 2019 untuk mengatasi masalah kandungan dan kesehatan pada ibu, serta membantu persalinan. Klinik ini 
+                    telah di percaya oleh kesehehatan nya dan obat-obatan nya
+                </p>
+            </div>
+            <div class="description-left-footer">
+                <p>May 19th 2019</p>
+                <p class="font-weight-bold"></p>
+            </div>
+        </div>
+        <img src="apalah - Copy.jpg" alt="desc">
+    </section>
+    <section class="content-container">
+        <div class="card">
+            
+            <div class="card-body">
+                <h3>1.Layanan Penggunaan BPJS </h3>
+                <p>Dengan ini kita dapat membantu orang yg tidak ada biaya nya bisa melakukan klinik bersalin tanpa biaya apapun</p>
+            </div>
+            <div class="card-footer">
+                <p>BPJS</p>
+                <p class="font-weight-bold">Selengkapnya_</p>
+            </div>
+        </div>
+        <div class="card">
+            
+            <div class="card-body">
+                <h3>2.CEK KANDUNGAN</h3>
+                <p>Membantu ibu hamil mencek kandungannya menggunakan mesin xray.ataupun dengan mesih test pad masih banyak alat yg bisa digunakan 
+                </p>
+            </div>
+            <div class="card-footer">
+                <p>SGM</p>
+                <p class="font-weight-bold">Selengkapnya_</p>
+            </div>
+        </div>
+        <div class="card">
+            
+            <div class="card-body">
+                <h3>3.AMBULANCE/PELAYANAN DI LUAR KLINIK</h3>
+                <p> Dengan ini kita dapat mendatangi pasian yang sedang lahiran di luar 
+                    dengan siap kita bersedia dalam pelaksanaan AMBULANCE
+                    </p>
+            </div>
+            <div class="card-footer">
+                <p>THE CARS  </p>
+                <p class="font-weight-bold">Selengkapnya_</p>
+            </div>
+        </div>
+    </section>
+    <section class="what-is-container">
+        <div>
+            <div>
+                <h1>Pretty Dentist
+
+        
+                </h1>
+                <p>Seorang Dokter Klinik bersalin Yang sangat ahli dalam bidang tersebut dengan ini kami membawakan dokter paling ampuh dalam klnik bersalin ini 
+                    datang dari amerika serikat untuk membantu dalam klinik bersalin ini salam Kesehatan!!
+                    
+                </p>
+            </div>
+            <div class="footer">
+                <p>May 20</p>
+                <p class="font-weight-bold">Lihat Lainnya__</p>
+            </div>
+        </div>
+        <img src="pretty-doctor-studio-portrait-confident-young-female-33127054.jpg" alt="what-is">
+    </section>
+    <section class="button-container">
+        <button class="btn">KONTAK</button>
+    </section>
+    <footer>
+        <p><b>Klinikbersalin</b>By Fajrin Aulia Fitrah Harahap 28/11/2022</p>
+        <div>
+            <p>081273863238</p>
+            <p>@Klinik_BisaJayaaa</p>
+            <P>JAKARTA KOTA
+            </P>
+        </div>
+    </footer>
+
+</body>
+
+</html>
