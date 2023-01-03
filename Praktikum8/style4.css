@@ -1,0 +1,49 @@
+body{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column ;
+    margin: 0 auto;
+}
+
+header{
+    background-color: yellow;
+    padding: 2rem;
+    width:55.3rem;
+    position:relative;
+    left: 20.0rem;
+}
+
+main{
+    display: flex;
+    flex: 1;
+    text-align: center;
+}
+
+nav{
+    background-color: rgb(255, 255, 255);
+    flex-direction: row;
+    flex: 0.95;
+    position: relative;
+    bottom: 10rem;
+}
+
+article{
+    background-color: pink;
+    flex: 2;
+}
+
+aside{
+    background-color: aqua;
+    flex: 0.8;
+    padding-right: 2%;
+    position: relative;
+    right: 3rem;
+}
+
+footer{
+    background-color: yellow;
+    padding: 2rem;
+    width:55rem;
+    position:relative;
+    left: 20.4rem;
+}
